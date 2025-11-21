@@ -1,2 +1,2 @@
 # NPM_ADSO
-Clases martes y jueves
+Clases martes y viernes 
